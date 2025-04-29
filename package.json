@@ -5,7 +5,7 @@
       "packages/*"
     ]
   },
-
+  "repository": "https://github.com/radix-ui/icons",
   "scripts": {
     "start": "yarn icons",
     "build": "yarn icons:build && yarn website:build",
